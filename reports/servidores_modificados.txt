@@ -1,0 +1,12 @@
+# [PROCESADO CON SED] Fecha: 2026-11-04 19:31:04 | Estados actualizados: 'normal' a 'revisado' y 'critico' a 'alerta'
+# SERVIDOR IP USO_DISCO ESTADO
+srv-bd-prod01 192.168.10.11 92 alerta
+srv-web-frontend01 192.168.10.12 45 revisado
+srv-api-gateway 192.168.10.13 78 revisado
+srv-storage-nfs 192.168.10.14 88 alerta
+srv-auth-ldap 192.168.10.15 32 revisado
+srv-cache-redis 192.168.10.16 65 revisado
+srv-mail-postfix 192.168.10.17 95 alerta
+srv-backup-veeam 192.168.10.18 72 revisado
+srv-monitor-zabbix 192.168.10.19 58 revisado
+srv-dns-bind9 192.168.10.20 28 revisado

@@ -1,0 +1,25 @@
+================================================================================
+                    REPORTE DE ESTADO DEL SISTEMA SERVIDOR
+================================================================================
+Fecha y Hora de Generación : 2026-11-04 19:36:27
+Usuario de Ejecución       : jesus
+Sistema Operativo          : Linux Lite 7.4
+--------------------------------------------------------------------------------
+1. MONITOREO DE ALMACENAMIENTO (Partición Raíz '/')
+   - Espacio Total         : 219G
+   - Espacio Ocupado       : 148G (72%)
+   - Espacio Disponible    : 60G
+   - Estado del Disco      : NORMAL (< 80%)
+
+2. MONITOREO DE MEMORIA RAM (Exclusivo Sistema Operativo)
+   - Memoria Total         : 11834 MB
+   - Memoria en Uso        : 3600 MB (30%)
+   - Memoria Disponible    : 8234 MB
+   - Estado de la Memoria  : NORMAL (< 80%)
+
+3. MONITOREO DE PROCESAMIENTO (CPU)
+   - Uso Actual de CPU     : 16.1%
+   - Estado del CPU        : NORMAL (< 80%)
+--------------------------------------------------------------------------------
+Leyenda de Umbrales: NORMAL (< 80%) | ALERTA (>= 80%) | CRÍTICO (>= 95%)
+================================================================================

@@ -1,0 +1,19 @@
+================================================================================
+          REPORTE DE SERVIDORES CON ALERTA DE ALMACENAMIENTO (> 70%)
+================================================================================
+Fecha de Análisis : 2026-11-04 19:31:04
+Archivo Origen    : /home/jesus/Documentos/PARCIAL_Shell_Script/data/servidores.txt
+Umbral Definido   : 70% de uso de disco
+--------------------------------------------------------------------------------
+SERVIDOR                 IP               USO_DISCO(%)   ESTADO_ORIGINAL
+--------------------------------------------------------------------------------
+srv-bd-prod01            192.168.10.11    92             critico        
+srv-api-gateway          192.168.10.13    78             normal         
+srv-storage-nfs          192.168.10.14    88             critico        
+srv-mail-postfix         192.168.10.17    95             critico        
+srv-backup-veeam         192.168.10.18    72             normal         
+--------------------------------------------------------------------------------
+Total Servidores Analizados : 10
+Servidores que Superan 70%  : 5
+Promedio de Ocupación Alerta: 85.00%
+================================================================================

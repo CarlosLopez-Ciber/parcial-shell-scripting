@@ -1,0 +1,11 @@
+# SERVIDOR IP USO_DISCO ESTADO
+srv-bd-prod01 192.168.10.11 92 critico
+srv-web-frontend01 192.168.10.12 45 normal
+srv-api-gateway 192.168.10.13 78 normal
+srv-storage-nfs 192.168.10.14 88 critico
+srv-auth-ldap 192.168.10.15 32 normal
+srv-cache-redis 192.168.10.16 65 normal
+srv-mail-postfix 192.168.10.17 95 critico
+srv-backup-veeam 192.168.10.18 72 normal
+srv-monitor-zabbix 192.168.10.19 58 normal
+srv-dns-bind9 192.168.10.20 28 normal
